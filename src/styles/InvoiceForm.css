@@ -1,0 +1,23 @@
+.invoice-inputs-main-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.invoice-inputs-ex-small {
+    max-width: 5.6rem;
+}
+
+.invoice-inputs-small {
+    max-width: 9.35rem;
+}
+
+.invoice-inputs-medium {
+    max-width: 11.2rem;
+}
+
+.invoice-inputs-large {
+    max-width: 15rem;
+}

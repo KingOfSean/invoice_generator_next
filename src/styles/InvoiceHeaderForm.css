@@ -1,0 +1,25 @@
+.invoice-address-card {
+    display: flex;
+    justify-content: space-between;
+}
+
+.invoice-address-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.invoice-address-header {
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.invoice-card-default-text {
+    /* font-weight: bold; */
+    font-size: 1.1rem;
+    text-align: center;
+    color: #a2a1a1;
+}
+
+.invoice-header-table-text {
+    min-width: 120px;
+}
